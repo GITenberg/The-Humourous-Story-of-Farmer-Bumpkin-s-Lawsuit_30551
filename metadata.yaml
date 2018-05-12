@@ -1,0 +1,26 @@
+_repo: The-Humourous-Story-of-Farmer-Bumpkin-s-Lawsuit_30551
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Harris, Richard
+    birthdate: 1833
+    deathdate: 1906
+    gutenberg_agent_id: '34673'
+    url: http://www.gutenberg.org/2009/agents/34673
+description: ''
+gutenberg_issued: '2009-11-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '30551'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Legal stories'
+- !lcc 'PR'
+title: The Humourous Story of Farmer Bumpkin's Lawsuit
+url: http://www.gutenberg.org/ebooks/30551
